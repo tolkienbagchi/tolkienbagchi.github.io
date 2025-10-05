@@ -1,6 +1,3 @@
-layout: post
-title: "My Blog Post"
-
 # Welcome to Tolkien's Website
 ### PhD Student, Systems Engineering
 Hi, I'm Tolkien! 
