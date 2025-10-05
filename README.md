@@ -1,4 +1,11 @@
 <script src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js" defer></script>
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$']]
+    }
+  };
+</script>
 # Welcome to Tolkien's Website
 ### PhD Student, Systems Engineering
 Hi, I'm Tolkien! 
