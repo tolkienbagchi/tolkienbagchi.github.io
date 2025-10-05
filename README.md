@@ -3,7 +3,8 @@
 Hi, I'm Tolkien! 
 I am a PhD student in the [Department of Systems Engineering](https://www.engineering.cornell.edu/sys/) at Cornell University. I work on decision making under uncertainty, game theory, and mechanism design particularly as they apply to climate policy. 
 
-{% include mathjax.html %}
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 ## On robust optimization for climate policy
 In decision making under uncertainty we have a function $f:\mathcal{X} \times \mathcal{Y} \to O$. We have control over one input $x \in \mathcal{X}$ but the other input $y \in \mathcal{Y}$ is unknown to us. There are two primary approaches to dealing with uncertainty in decision making:
